@@ -12,8 +12,8 @@ const BUTTON_MAPPINGS = {
     '9': { name: '+', id: 'plus-button', colour: 'pink' },
     '10': { name: 'LS', id: 'ls-button', colour: 'grey' },
     '11': { name: 'RS', id: 'rs-button', colour: 'grey' },
-    '12': { name: 'HOME', id: 'home-button', colour: 'pink' },
-    '13': { name: 'SCREENSHOT', id: 'screenshot-button', colour: 'pink' }
+    '12': { name: '🏚', id: 'home-button', colour: 'pink' },
+    '13': { name: '📷', id: 'screenshot-button', colour: 'pink' }
   }
 };
 
